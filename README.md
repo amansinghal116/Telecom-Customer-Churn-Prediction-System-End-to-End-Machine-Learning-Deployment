@@ -2,7 +2,7 @@
 
 An end-to-end machine learning project that predicts telecom customer churn and provides real-time predictions through a deployed web application.
 
-This project demonstrates the complete data science lifecycle — from exploratory data analysis and model optimization to production deployment on AWS.
+This project demonstrates the complete data science lifecycle from exploratory data analysis and model optimization to production deployment on AWS.
 
 ---
 
